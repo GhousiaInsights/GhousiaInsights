@@ -17,11 +17,11 @@ Built KPIs, regional analysis, and time trends
 Cleaned and transformed messy date data
 
 Skills:
-SQL (MySQL)
-Power BI
-Data Cleaning
+SQL (MySQL),
+Power BI ,
+Data Cleaning ,
 Data Visualization
 
 Contact:
-linkedin.com/in/gsultana
+linkedin.com/in/gsultana , 
 sghousia32@gmail.com
