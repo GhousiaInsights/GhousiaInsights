@@ -4,6 +4,7 @@ Hi, I'm Ghousia Sultana 👋
 
 Aspiring Data Analyst skilled in SQL and Power BI.
 I enjoy transforming raw data into meaningful insights that support business decisions.
+Currently building real-world analytics projects to strengthen problem-solving and data analysis skills
 
 ---
 
