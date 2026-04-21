@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I'm Ghousia Sultana
 
-<!--
-**GhousiaInsights/GhousiaInsights** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me:
+Aspiring Data Analyst skilled in SQL and Power BI.
+I enjoy turning raw data into meaningful insights that support business decisions.
 
-Here are some ideas to get you started:
+Projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sales Analysis (SQL Project)
+Built SQL-based analysis using MySQL
+Performed aggregations and trend analysis
+Identified top products and regional performance
+
+Sales Dashboard (Power BI Project)
+Created interactive dashboard using Power BI
+Built KPIs, regional analysis, and time trends
+Cleaned and transformed messy date data
+
+Skills:
+SQL (MySQL)
+Power BI
+Data Cleaning
+Data Visualization
+
+Contact:
+linkedin.com/in/gsultana
+sghousia32@gmail.com
