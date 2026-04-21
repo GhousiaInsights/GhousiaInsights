@@ -1,27 +1,38 @@
-Hi, I'm Ghousia Sultana
+Hi, I'm Ghousia Sultana 👋
 
-About Me:
+  👩‍💻 About Me
+
 Aspiring Data Analyst skilled in SQL and Power BI.
-I enjoy turning raw data into meaningful insights that support business decisions.
+I enjoy transforming raw data into meaningful insights that support business decisions.
 
-Projects:
+---
 
-Sales Analysis (SQL Project)
-Built SQL-based analysis using MySQL
-Performed aggregations and trend analysis
-Identified top products and regional performance
+  🚀 Projects
 
-Sales Dashboard (Power BI Project)
-Created interactive dashboard using Power BI
-Built KPIs, regional analysis, and time trends
-Cleaned and transformed messy date data
+     📊 Sales Analysis (SQL project)
 
-Skills:
-SQL (MySQL),
-Power BI ,
-Data Cleaning ,
-Data Visualization
+* Built SQL-based analysis using MySQL
+* Performed aggregations and trend analysis
+* Identified top products and regional performance
 
-Contact:
-linkedin.com/in/gsultana , 
-sghousia32@gmail.com
+    📈 Sales Dashboard (Power BI Project)
+
+* Created interactive dashboard using Power BI
+* Built KPIs, regional insights, and time-based trends
+* Cleaned and transformed messy date data
+
+---
+
+   🛠 Skills
+
+* SQL (MySQL)
+* Power BI
+* Data Cleaning
+* Data Visualization
+
+---
+
+   📫 Contact
+
+* LinkedIn: https://linkedin.com/in/gsultana
+* Email: [sghousia32@gmail.com](mailto:sghousia32@gmail.com)
