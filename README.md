@@ -1,3 +1,5 @@
+## 📊 Data Analyst Portfolio
+
 Hi, I'm Ghousia Sultana 👋
 
   👩‍💻 About Me
@@ -9,14 +11,17 @@ Currently building real-world analytics projects to strengthen problem-solving a
 ---
 
   🚀 Projects
-
-     📊 Sales Analysis (SQL project)
+         
+        
+  📊 **Sales Analysis (SQL project)**
+     [View Project](https://github.com/your-username/sales-analysis-project)
 
 * Built SQL-based analysis using MySQL
 * Performed aggregations and trend analysis
 * Identified top products and regional performance
 
-    📈 Sales Dashboard (Power BI Project)
+   📈 **Sales Dashboard (Power BI Project)**
+  [View Project](https://github.com/your-username/sales-dashboard-project)
 
 * Created interactive dashboard using Power BI
 * Built KPIs, regional insights, and time-based trends
