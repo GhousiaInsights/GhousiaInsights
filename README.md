@@ -14,14 +14,14 @@ Currently building real-world analytics projects to strengthen problem-solving a
          
         
   📊 **Sales Analysis (SQL project)**
-     [View Project](https://github.com/your-username/sales-analysis-project)
+     [View Project](https://github.com/GhousiaInsights/sales-analysis-sql-project.git)
 
 * Built SQL-based analysis using MySQL
 * Performed aggregations and trend analysis
 * Identified top products and regional performance
 
-   📈 **Sales Dashboard (Power BI Project)**
-  [View Project](https://github.com/your-username/sales-dashboard-project)
+  📈 **Sales Dashboard (Power BI Project)**
+  [View Project](https://github.com/GhousiaInsights/sales-dashboard-project.git)
 
 * Created interactive dashboard using Power BI
 * Built KPIs, regional insights, and time-based trends
